@@ -4,7 +4,8 @@ An animated background recreated from the [geode-sdk.org](https://geode-sdk.org)
 
 **[Try the live demo](https://geode.hungg.indevs.in)**
 
-https://github.com/itzhunggisagoner/Geode-Background/blob/main/resources/geode-background.mp4
+<video src="https://github.com/user-attachments/assets/5fc6608e-b8ef-4cbc-9baa-c22c994ffbac" width="100%" loop autoplay muted playsinline></video>
+
 ## Palette
 
 From top to bottom:
